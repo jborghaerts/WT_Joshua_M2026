@@ -1,1 +1,7 @@
-Error conflict gedoe
+Error conflict nee maar wel vervelend
+
+ik wil niet dat er 4 mannen komen die me ophalen, nee niet doen
+
+stoppp
+
+print("stop met mannen")
